@@ -187,4 +187,13 @@ A public list of things we intend to do with HouseWatch in the near future.
 - [ ] Query editor pipe all errors to client
 - [ ] Abstraction to load data from API as JSON
 
+<b> Playbook Media (Clickhouse Cloud Integration) </b>
+- [ ] Define Schema To Store Configurations Tied To A Service At The User Level
+- [ ] CRUD New Service For A Specific User Based On ID
+- [ ] Query Service Details Which Should Be Stored At An Interval
+- [ ] CRUD Clickhouse Cloud Service API Key At The User Level
+- [ ] RU Service State At The User Level
+- [ ] List Service Backups
+- [ ] Query Backup Details
+
 </details>
